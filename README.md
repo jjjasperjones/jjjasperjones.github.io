@@ -1,11 +1,13 @@
 ## Hey, Jasper here
 
+These are my Fundamentals Learning Projects. Would love your reviews as well.
+
+### [Landing Page Final Project](https://jjjasperjones.github.io//fundamentals/foundations)
+
 ### CSS Crash Course Projects
 - [CSS Cheat Sheet](https://jjjasperjones.github.io/css-crash-course/csscheatsheet/)
 - [CSS Flexbox](https://jjjasperjones.github.io/css-crash-course/flexbox-1/)
 - [CSS Flexbox II](https://jjjasperjones.github.io/css-crash-course/flexbox-2/)
-
-### [Landing Page Final Project](https://jjjasperjones.github.io//fundamentals/foundations)
 
 ### Flex
 
