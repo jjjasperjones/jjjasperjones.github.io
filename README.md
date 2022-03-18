@@ -2,7 +2,7 @@
 
 These are my Fundamentals Learning Projects. Would love your reviews as well.
 
-### [Landing Page Final Project](https://jjjasperjones.github.io//fundamentals/foundations)
+### [Landing Page Final Project](https://jjjasperjones.github.io//fundamentals/landing-page)
 
 ### CSS Crash Course Projects
 - [CSS Cheat Sheet](https://jjjasperjones.github.io/css-crash-course/csscheatsheet/)
