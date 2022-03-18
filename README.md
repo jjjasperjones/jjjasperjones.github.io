@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Hey, Jasper here
 
-You can use the [editor on GitHub](https://github.com/jjjasperjones/jjjasperjones.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### CSS Crash Course Projects
+- [CSS Cheat Sheet](https://jjjasperjones.github.io/css-crash-course/csscheatsheet/)
+- [CSS Flexbox](https://jjjasperjones.github.io/css-crash-course/flexbox-1/)
+- [CSS Flexbox II](https://jjjasperjones.github.io/css-crash-course/flexbox-2/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [Landing Page Final Project](https://jjjasperjones.github.io//fundamentals/foundations)
 
-### Markdown
+### Flex
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Flex Centre](https://jjjasperjones.github.io//fundamentals/flex/01-flex-center)
+- [Flex Header](https://jjjasperjones.github.io//fundamentals/flex/02-flex-header)
+- [Flex Header 2](https://jjjasperjones.github.io//fundamentals/flex/03-flex-header-2)
+- [Flex Information](https://jjjasperjones.github.io//fundamentals/flex/04-flex-information)
+- [Flex Layout](https://jjjasperjones.github.io//fundamentals/flex/06-flex-layout)
+- [Flex Layout-2](https://jjjasperjones.github.io//fundamentals/flex/07-flex-layout-2)
 
-```markdown
-Syntax highlighted code block
+### Selectors
 
-# Header 1
-## Header 2
-### Header 3
+- [Class id Selectors](https://jjjasperjones.github.io//fundamentals/foundations/02-class-id-selectors)
+- [Grouping Selectors](https://jjjasperjones.github.io//fundamentals/foundations/03-grouping-selectors)
+- [Chaining Selectors](https://jjjasperjones.github.io//fundamentals/foundations/04-chaining-selectors)
+- [Cascade Fix](https://jjjasperjones.github.io//fundamentals/foundations/06-cascade-fix)
 
-- Bulleted
-- List
+### Margin & Padding
 
-1. Numbered
-2. List
+- [margin-and-padding-1](https://jjjasperjones.github.io//fundamentals/margin-and-padding/margin-and-padding-1)
+- [margin-and-padding-2](https://jjjasperjones.github.io//fundamentals/margin-and-padding/margin-and-padding-2)
 
-**Bold** and _Italic_ and `Code` text
+### [Odin Links & Images](https://jjjasperjones.github.io//fundamentals/odin-links-and-images)
 
-[Link](url) and ![Image](src)
-```
+### [Odin Recipes](https://jjjasperjones.github.io//fundamentals/odin-recipies)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jjjasperjones/jjjasperjones.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
